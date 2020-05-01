@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ratnabarot.recipeapp">
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login">
+
+        </activity>
+        <activity android:name=".profile">
+
+        </activity>
+        <activity android:name=".register">
+
+        </activity>
+        <activity android:name=".MainActivity">
+        <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+
+        <category android:name="android.intent.category.LAUNCHER" />
+    </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".AvocadoKaleToast"
+            android:label="@string/title_activity_avocado_kale_toast"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EggSandwich"
+            android:label="@string/title_activity_egg_sandwich"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SteelCutOats"
+            android:label="@string/title_activity_steel_cut_oats"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BroccoliCheddarQuiche"
+            android:label="@string/title_activity_broccoli_cheddar_quiche"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Breakfast"
+            android:label="@string/title_activity_breakfast"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BananaBread"
+            android:label="@string/title_activity_banana_bread"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StrawberrySquares"
+            android:label="@string/title_activity_strawberry_squares"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StrawberriesRomanoff"
+            android:label="@string/title_activity_strawberries_romanoff"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CoconutPie"
+            android:label="@string/title_activity_coconut_pie"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CoconutMacaroonNests"
+            android:label="@string/title_activity_coconut_macaroon_nests"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LemonCheesecake"
+            android:label="@string/title_activity_lemon_cheesecake"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TropicalPapayaBatido"
+            android:label="@string/title_activity_tropical_papaya_batido"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PinaBananaColada"
+            android:label="@string/title_activity_pina_banana_colada"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SummerMango"
+            android:label="@string/title_activity_summer_mango"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BananaCacaoGreen"
+            android:label="@string/title_activity_banana_cacao_green"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BlueberryOatmeal"
+            android:label="@string/title_activity_blueberry_oatmeal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BlackBeanQuinoa"
+            android:label="@string/title_activity_black_bean_quinoa"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Chickpea"
+            android:label="@string/title_activity_chickpea"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GreenBean"
+            android:label="@string/title_activity_green_bean"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SpiralizedBeatMandarin"
+            android:label="@string/title_activity_spiralized_beat_mandarin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PeachArugula"
+            android:label="@string/title_activity_peach_arugula"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CoconutClams"
+            android:label="@string/title_activity_coconut_clams"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PumpkinGinger"
+            android:label="@string/title_activity_pumpkin_ginger"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GreenDetox"
+            android:label="@string/title_activity_green_detox"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SalmonChowder"
+            android:label="@string/title_activity_salmon_chowder"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChickpeaTomatoRosemary"
+            android:label="@string/title_activity_chickpea_tomato_rosemary"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SweetPotatoTots"
+            android:label="@string/title_activity_sweet_potato_tots"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChickenNuggets"
+            android:label="@string/title_activity_chicken_nuggets"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GrilledVegetable"
+            android:label="@string/title_activity_grilled_vegetable"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bruschetta"
+            android:label="@string/title_activity_bruschetta"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BakedCornCrab"
+            android:label="@string/title_activity_baked_corn_crab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Dessert"
+            android:label="@string/title_activity_dessert"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Drink"
+            android:label="@string/title_activity_drink"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Salad"
+            android:label="@string/title_activity_salad"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Soup"
+            android:label="@string/title_activity_soup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Appetizer"
+            android:label="@string/title_activity_appetizer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Categories"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "861044847377",
+    "firebase_url": "https://authenticator-750ba.firebaseio.com",
+    "project_id": "authenticator-750ba",
+    "storage_bucket": "authenticator-750ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861044847377:android:525705ee38090044e952b0",
+        "android_client_info": {
+          "package_name": "com.csc450.csp.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm9yYi04mYHGTBaxtmKPEsGrhPv3Y7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861044847377:android:5c7ddb6fddf364d5e952b0",
+        "android_client_info": {
+          "package_name": "com.csc450.csp.edu.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm9yYi04mYHGTBaxtmKPEsGrhPv3Y7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861044847377:android:f19e6931f9465150e952b0",
+        "android_client_info": {
+          "package_name": "com.example.ratnabarot.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm9yYi04mYHGTBaxtmKPEsGrhPv3Y7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861044847377-ml5r673rp4stnt4m8sofrnhac35jb9bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

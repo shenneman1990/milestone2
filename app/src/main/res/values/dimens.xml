@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- Text font -->
+    <dimen name="text_font">20sp</dimen>
+
+    <!-- Space height and bottom -->
+    <dimen name="s_height">20dp</dimen>
+    <dimen name="s_bottom">100dp</dimen>
+
+    <!-- Image width and height -->
+    <dimen name="image_width">200dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

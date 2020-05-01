@@ -1,0 +1,71 @@
+<resources>
+
+    <string name="app_name">RecipeApp</string>
+    <string name="appetizer">APPETIZER</string>
+    <string name="breakfast">BREAKFAST</string>
+    <string name="soup">SOUP</string>
+    <string name="salad">SALAD</string>
+    <string name="drinks">DRINKS</string>
+    <string name="dessert">DESSERT</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_feedback">Feedback</string>
+
+    <string name="title_activity_appetizer">Appetizer</string>
+    <string name="title_activity_soup">Soup</string>
+    <string name="title_activity_salad">Salad</string>
+    <string name="title_activity_drink">Drink</string>
+    <string name="title_activity_dessert">Dessert</string>
+    <string name="title_activity_baked_corn_crab">BakedCornCrab</string>
+    <string name="title_activity_bruschetta">Bruschetta</string>
+    <string name="title_activity_grilled_vegetable">GrilledVegetable</string>
+    <string name="title_activity_chicken_nuggets">ChickenNuggets</string>
+    <string name="title_activity_sweet_potato_tots">SweetPotatoTots</string>
+    <string name="title_activity_chickpea_tomato_rosemary">ChickpeaTomatoRosemary</string>
+    <string name="title_activity_salmon_chowder">SalmonChowder</string>
+    <string name="title_activity_green_detox">GreenDetox</string>
+    <string name="title_activity_pumpkin_ginger">PumpkinGinger</string>
+    <string name="title_activity_coconut_clams">CoconutClams</string>
+    <string name="title_activity_peach_arugula">PeachArugula</string>
+    <string name="title_activity_spiralized_beat_mandarin">SpiralizedBeatMandarin</string>
+    <string name="title_activity_green_bean">GreenBean</string>
+    <string name="title_activity_chickpea">Chickpea</string>
+    <string name="title_activity_black_bean_quinoa">BlackBeanQuinoa</string>
+    <string name="title_activity_blueberry_oatmeal">BlueberryOatmeal</string>
+    <string name="title_activity_banana_cacao_green">BananaCacaoGreen</string>
+    <string name="title_activity_summer_mango">SummerMango</string>
+    <string name="title_activity_pina_banana_colada">PinaBananaColada</string>
+    <string name="title_activity_tropical_papaya_batido">TropicalPapayaBatido</string>
+    <string name="title_activity_lemon_cheesecake">LemonCheesecake</string>
+    <string name="title_activity_coconut_macaroon_nests">CoconutMacaroonNests</string>
+    <string name="title_activity_coconut_pie">CoconutPie</string>
+    <string name="title_activity_strawberries_romanoff">StrawberriesRomanoff</string>
+    <string name="title_activity_strawberry_squares">StrawberrySquares</string>
+    <string name="title_activity_banana_bread">BananaBread</string>
+    <string name="title_activity_breakfast">Breakfast</string>
+    <string name="title_activity_broccoli_cheddar_quiche">BroccoliCheddarQuiche</string>
+    <string name="title_activity_steel_cut_oats">SteelCutOats</string>
+    <string name="title_activity_egg_sandwich">EggSandwich</string>
+    <string name="title_activity_avocado_kale_toast">AvocadoKaleToast</string>
+
+    <!-- Dialog/Fragment names -->
+    <string name="dialog_new_note">New Note Dialog</string>
+
+    <!-- Strings -->
+    <string name="note_content">Content</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="textview">TextView</string>
+    <string name="action_comment">action_comment</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+</resources>
